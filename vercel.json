@@ -3,6 +3,7 @@
     {
       "source": "/api/:path*",
       "destination": "/api"
-    }
+  }
   ]
 }
+  
