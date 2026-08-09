@@ -1,0 +1,6 @@
+{
+  "name": "SnapAction AI",
+  "description": "Extract text, identify objects, and generate actionable tasks instantly from images and documents using AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
