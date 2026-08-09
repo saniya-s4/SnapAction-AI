@@ -18,3 +18,5 @@ View your app in AI Studio: https://ai.studio/apps/bfe03ca1-1ea9-4e6a-ac2c-7b7f6
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+#Demo
+https://vercel.com/saniya-s5/snapaction-ai-saniya
